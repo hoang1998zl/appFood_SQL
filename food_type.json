@@ -1,0 +1,22 @@
+[
+  {
+    "type_id": 1,
+    "type_name": "Món chay"
+  },
+  {
+    "type_id": 2,
+    "type_name": "Món tráng miệng"
+  },
+  {
+    "type_id": 3,
+    "type_name": "Món hải sản"
+  },
+  {
+    "type_id": 4,
+    "type_name": "Món thịt"
+  },
+  {
+    "type_id": 5,
+    "type_name": "Món nước"
+  }
+]

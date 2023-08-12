@@ -1,0 +1,62 @@
+[
+  {
+    "sub_id": 1,
+    "sub_name": "Sub 1",
+    "sub_price": 2.99,
+    "food_id": 1
+  },
+  {
+    "sub_id": 2,
+    "sub_name": "Sub 2",
+    "sub_price": 3.99,
+    "food_id": 1
+  },
+  {
+    "sub_id": 3,
+    "sub_name": "Sub 3",
+    "sub_price": 4.99,
+    "food_id": 2
+  },
+  {
+    "sub_id": 4,
+    "sub_name": "Sub 4",
+    "sub_price": 2.49,
+    "food_id": 2
+  },
+  {
+    "sub_id": 5,
+    "sub_name": "Sub 5",
+    "sub_price": 3.49,
+    "food_id": 3
+  },
+  {
+    "sub_id": 6,
+    "sub_name": "Sub 1",
+    "sub_price": 2.99,
+    "food_id": 1
+  },
+  {
+    "sub_id": 7,
+    "sub_name": "Sub 2",
+    "sub_price": 3.99,
+    "food_id": 1
+  },
+  {
+    "sub_id": 8,
+    "sub_name": "Sub 3",
+    "sub_price": 4.99,
+    "food_id": 2
+  },
+  {
+    "sub_id": 9,
+    "sub_name": "Sub 4",
+    "sub_price": 2.49,
+    "food_id": 2
+  },
+  {
+    "sub_id": 10,
+    "sub_name": "Sub 5",
+    "sub_price": 3.49,
+    "food_id": 3
+  }
+]
